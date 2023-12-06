@@ -47,10 +47,10 @@ Moreover, the model provided insights into peak service hours, prompting adjustm
 ### Skills Utilized:
 
 **Database:**
-Geclisa (EHR-ERP software)
-SQL
-Microsoft Excel
+- Geclisa (EHR-ERP software)
+- SQL
+- Microsoft Excel
 **ETL Tool:**
-Power Query
+- Power Query
 **Data Visualization:**
-Power BI Desktop/Service
+- Power BI Desktop/Service
