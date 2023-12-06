@@ -1,7 +1,7 @@
 # Julian Cabrini's Portfolio
 *Health Data Analytics Portfolio*
 
-## Project: General Service Report - Regional Healthcare Center##
+## Project: General Service Report - Healthcare Center
 
 ### Overview
 The clinic I worked for lacked comprehensive insights into its service activities. Management reporting methods were basic, outdated, and lacked automation. Recognizing the need for detailed information on health service production, the project aimed to understand quantities, estimated revenues over different periods, primary financiers, and the activities of various medical providers, among other aspects.
