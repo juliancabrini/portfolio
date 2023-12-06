@@ -40,7 +40,7 @@ The model allowed for a preliminary view, before monthly billing to major financ
 
 Moreover, the model provided insights into peak service hours, prompting adjustments to admission processes to enhance the patient experience.
 
-### Skills Utilized:
+### Skills Utilized
 
 **Database:**
 - Geclisa (EHR-ERP software)
