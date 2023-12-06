@@ -16,21 +16,31 @@ Multiple measures were applied to the extracted tables to identify quantities, a
 The data were segmented into five sections, representing simultaneous operational units within the clinic:
 
 - **Outpatient Service**
+
 ![consultorio](https://github.com/juliancabrini/portfolio/assets/152528339/c463bbe4-f9cb-44d9-8f20-356b815cc245)
+
 ![consultorios historico](https://github.com/juliancabrini/portfolio/assets/152528339/0cad8182-015e-42c9-b0bc-eea3329489e0)
+
+![consultorios horarios](https://github.com/juliancabrini/portfolio/assets/152528339/22d500e8-eff2-4cf0-8a0f-8ded0e0ea701)
+
 ![consultorio financiadores](https://github.com/juliancabrini/portfolio/assets/152528339/3dcee645-5da8-4f37-b111-dfd775f888c8)
 
 - **Emergency Room**
+
 ![guardia](https://github.com/juliancabrini/portfolio/assets/152528339/e6f77ac3-84aa-4822-bff0-756c6732dd4c)
 
 - **Computed Tomography Service**
+
 ![tomografia](https://github.com/juliancabrini/portfolio/assets/152528339/a9a7a791-197f-4474-b08d-8fb71cc6d5aa)
 
 - **Operating Room Service**
+
 ![cirugia](https://github.com/juliancabrini/portfolio/assets/152528339/56390fb5-cd14-4ae2-abc9-6343e2107d92)
+
 ![cirugias detalle](https://github.com/juliancabrini/portfolio/assets/152528339/fb27a7c3-625e-4ad7-855b-912af4922e0f)
 
 - **Gastrointestinal Endoscopy Service**
+
 ![endoscopia](https://github.com/juliancabrini/portfolio/assets/152528339/b3c7f196-7082-4505-a18d-2f492aac35a7)
 
 ### Results and Conclusions
